@@ -36,7 +36,7 @@ main {
             border-radius: 10px;
         }   
 .card-img {
-            height: 1000px;
+            height: 500px;
             background-color: #003cff;
             display: flex;
             align-items: center;
